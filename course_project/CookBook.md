@@ -14,12 +14,12 @@ Subject:
 
 Activity:	
     One of the six activities performed by the subject. The six activities are:
-    * WALKING, 
-    * WALKING_UPSTAIRS, 
-    * WALKING_DOWNSTAIRS, 
-    * SITTING, 
-    * STANDING, 
-    * LAYING
+    - WALKING, 
+    - WALKING_UPSTAIRS, 
+    - WALKING_DOWNSTAIRS, 
+    - SITTING, 
+    - STANDING, 
+    - LAYING
 
 tBodyAcc-mean-X	: 
 -	The mean of all the normalized mean values of the body acceleration time domain signals in X-axial direction of the subject in performing the activity.
